@@ -7,6 +7,6 @@ export default props => (
 
       <h2>Nossa História</h2>
       <p>Lorem ipsum...</p>
-      <h2>Missão e Visão</h2>
+      <h2>Missão + Visão</h2>
    </div>
 )
