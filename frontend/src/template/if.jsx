@@ -1,4 +1,5 @@
-import React from 'core-js/library/fn/reflect/es7/metadata'
+import React from 'react'
+
 export default props => {
    if(props.test) {
       return props.children
